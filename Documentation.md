@@ -289,8 +289,6 @@ The data layer is configured for durability, security, and integration with the 
    
     Navigate to **EC2 → Auto Scaling Groups → Create Auto Scaling Group**.
    
-    Name your group: **Document-Processor-ASG**
-   
    <img width="1366" height="707" alt="Screenshot (1752)" src="https://github.com/user-attachments/assets/87ab5dd6-bc63-43ff-9d72-d90cb011eb62" />
 
    <img width="1366" height="707" alt="Screenshot (1753)" src="https://github.com/user-attachments/assets/bda05124-a654-4964-8861-73fd7ea93390" />
